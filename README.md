@@ -11,3 +11,5 @@ Practice promises and async code before Monday's deep dive into invoking APIs an
 
 
 ## Running tests
+- you should not run your code directly but consume from the test file
+`node order-processing.test.js`
